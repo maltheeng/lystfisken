@@ -1,0 +1,12 @@
+tekst:
+krav til min app:
+titel : lystfiskerlog.
+iden er at lave en log over ens lystfisketurere. også 0 ture.
+app -> programmet skal når det er færdigt kunne:
+
+1) gemme data (offline) 
+	A: hvor(hvis der er netværk hentes det automatisk ellers skal der kunne skrive eller vælges forudintastede pos)),tid, dato, vejert,(sol, regn,overskyet,vindretning, styke,vandtempratur), antal fisk, vægt og type. 
+	B: hvis det er muligt at skaffe data automatisk er det at fortrække.
+	C: ved fangst kan der trykkes på en stor knap således at minmu data huskes. hvor, tid, dato. (hvis der ikke er netværk skal man opgive pos for fiskeriet før man gå igang)
+2) hente log data frem ved tryk på en log knap hvorefter der fremkommer en side med data hvor der kan bladres i. denne side skal kunne indstilles til visning efter dato, pos, antal fisk,
+3) mulighed for at lægge et billed ved. (fremtid kunne man forstille sig at kammeraet kunne måle længten på en fisk)	
